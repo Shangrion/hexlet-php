@@ -11,5 +11,10 @@
             "email": "lvdmyta6op@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "illuminate/collections": "^10.48"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.5"
+    }
 }
