@@ -1,9 +1,9 @@
 {
     "name": "uzer/hexlet-php",
     "autoload": {
-        "psr-4": {
-            "Uzer\\HexletPhp\\": "src/"
-        }
+	"files": [
+            "src/Runner.php"
+        ]
     },
     "authors": [
         {
